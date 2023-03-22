@@ -1,0 +1,23 @@
+.container {
+  height: 1000px;
+  width: 100%;
+  background-image:
+    linear-gradient(
+      to right,
+      white 0%,
+      white 60%,
+      black 60%,
+      black 100%
+    );
+}
+
+.valodle-logo {
+  height: 50px;
+  width: 250px;
+}
+
+.jett-background {
+  z-index: 0;
+  position: fixed;
+  right: 0;
+}

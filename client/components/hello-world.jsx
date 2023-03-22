@@ -2,6 +2,9 @@ import React from 'react';
 
 export default function HelloWorld(props) {
   return (
-    <h1>Hello, World!</h1>
+    <>
+      <img className="valodle-logo" src="./images/valodle.jpg" alt="valodle logo" />
+      <img className="jett-background" src="./images/jett.jpg" />
+    </>
   );
 }
