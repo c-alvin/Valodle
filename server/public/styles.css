@@ -12,12 +12,20 @@
 }
 
 .valodle-logo {
-  height: 50px;
-  width: 250px;
+  padding-left: 25px;
+  padding-top: 25px;
+  object-fit: fill;
+  height: 75px;
+  width: 350px;
 }
 
 .jett-background {
   z-index: 0;
   position: fixed;
   right: 0;
+  width: 675px;
+}
+
+.flex-start {
+  justify-content: flex-start;
 }
