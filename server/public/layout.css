@@ -1,0 +1,7 @@
+.row {
+  display: flex;
+}
+
+.column-70 {
+  flex-basis: 70%;
+}
